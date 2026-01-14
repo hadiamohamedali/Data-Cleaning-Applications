@@ -48,13 +48,7 @@ The following steps were applied to all datasets:
 
 ---
 
-## 🖼️ Visual Overview
 
-![My Data Cleaning Projects](An_infographic_titled_"My_Data_Cleaning_Projects"_.png)
-
-
-
----
 
 ## 🛠 Tools & Libraries
 - Python 🐍  
